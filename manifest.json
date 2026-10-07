@@ -3,7 +3,7 @@
   "short_name": "GDIS / SAP",
   "description": "Busca de materiais GDIS e SAP — Leandro Projetos Elétricos",
   "lang": "pt-BR",
-  "start_url": "./app_gdis_sap_busca_v1_9_PWA.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
